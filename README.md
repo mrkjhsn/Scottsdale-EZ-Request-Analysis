@@ -8,3 +8,11 @@ A few things I'm interested in exploring with this dataset:
 1. trends in specific types of requests
 1. relationship between complaints and weather characteristics
 1. length of time complaint is open
+
+### Total Requests Over Time
+_____
+![](https://github.com/mrkjhsn/Scottsdale-EZ-Request-Analysis/blob/master/visualizations/total_requests.png)
+
+### Top 10 Requests Over Time
+_____
+![](https://github.com/mrkjhsn/Scottsdale-EZ-Request-Analysis/blob/master/visualizations/top_10_requests.png)
